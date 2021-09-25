@@ -1,2 +1,2 @@
 # resume_updates
- for changing resume to highlight differnt skills
+ a small javascript app that generates bold/normal fonts for list items on my resume.
