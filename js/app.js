@@ -27,7 +27,7 @@ let selectedSkill = () => {
     }
 }
 
-//submit button listener, generates <div> tags and iterates over bold and not bold arrays adding them to the ul and inserting them into the <p class=output> tags as innerHTML.
+//submit button listener, generates <div> tags and iterates over bold and not bold arrays and inserting them into the <p class=output> tags as innerHTML.
 button.addEventListener('click', ()=> {
     //call to generate bold and not bold arrays.
     selectedSkill()
